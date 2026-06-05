@@ -1,7 +1,7 @@
 {
   "UIDownload": "https://cdn.fluor.gg/files/FluorUI.exe",
-  "UIVersion": "1.0.4",
+  "UIVersion": "1",
   "InjectorDownload": "https://cdn.fluor.gg/files/FluorInjector.dll",
-  "InjectorVersion": "2.3.0",
+  "InjectorVersion": "2",
   "BootStrapperVersion": "1"
 }
